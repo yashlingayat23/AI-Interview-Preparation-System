@@ -1,0 +1,122 @@
+{
+  "sessions": [
+    {
+      "created_at": "2026-05-03T01:59:10",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Tell me about yourself.",
+      "answer": "Hi, My name is Yash Kiran Lingayat\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:15:24",
+      "candidate_name": "Yash",
+      "role": "Cyber Student",
+      "category": "HR",
+      "question": "Tell me about yourself.",
+      "answer": "my background in cybersecurity, so i am perfect in python language and Linux tools  also. i am creating a real world project that's name is Keylogger Software. it is based on python program. \nthe project goal is, it is used in multiple places such as company, offices, school, college, and it is also used by business mans for store our data. the main goal is what a ever you can type in hardware keyboard (not a virtual keyboard) it can store in a specific location in laptop or pc. \nmain goal is if some data is forgotten by people, it can seen our previous data stored in our software.\n ",
+      "overall_score": 56,
+      "relevance_score": 25,
+      "structure_score": 50,
+      "clarity_score": 90,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:05",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Tell me about yourself.",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:21",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Why should we hire you for this role?",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:35",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Describe a time you handled a challenge.",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:42",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Tell me about a time you failed and what you learned from it.",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:50",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "How do you handle working with someone difficult or different viewpoints?",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T21:38:59",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "category": "HR",
+      "question": "Where do you see yourself in 5 years?",
+      "answer": "iubgynguy\n",
+      "overall_score": 25,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    },
+    {
+      "created_at": "2026-05-13T22:16:45",
+      "candidate_name": "Student",
+      "role": "Software Engineer",
+      "target_role": "Software Engineer",
+      "category": "HR",
+      "question": "Tell me about yourself.",
+      "answer": "yjdfgbuiyu",
+      "overall_score": 28,
+      "relevance_score": 0,
+      "structure_score": 0,
+      "clarity_score": 50,
+      "confidence_score": 100
+    }
+  ]
+}

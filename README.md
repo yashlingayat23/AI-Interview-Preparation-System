@@ -1,20 +1,65 @@
-## AI-Interview-Preparation-System
-An AI-powered platform designed to help students and job seekers prepare for technical and HR interviews through smart practice sessions, real-time feedback, and performance analysis. The system simulates real interview environments using Artificial Intelligence, allowing users to improve communication skills, technical knowledge, confidence.
+# AI Interview Preparation System
 
-## Key Features
-  1.🤖 AI-based mock interviews
-  2.🎤 Voice and text interaction support
-  3.📊 Performance analysis and feedback
-  4.🧠 Technical and HR interview questions
-  5.📈 Skill tracking and improvement reports
-  6.⏱️ Real-time response evaluation
-  7.💡 Personalized question recommendations
-  8.🔐 Secure user login and progress storage
+A beginner-friendly Python project that helps students practice interview questions, get instant feedback on answers, and track improvement for placement preparation.
 
+## Features
 
-## Technologies Used
-  Frontend: HTML, CSS, JavaScript / React
-  Backend: Python / Flask / Node.js
-  AI & NLP: OpenAI API, NLP models
-  Database: MySQL / MongoDB
-  Speech Processing: Speech-to-Text & Text-to-Speech APIs
+- Practice common interview questions by category
+- Analyze answers with instant scoring
+- Get feedback on relevance, structure, clarity, and confidence
+- Track past attempts and average scores
+- View progress by category over time
+- Store data locally in JSON format
+
+## Project Structure
+
+```text
+AI Interview Preparation System/
+|
+|-- app.py
+|-- feedback_engine.py
+|-- question_bank.py
+|-- storage.py
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+`-- data/
+    `-- interview_sessions.json
+```
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Local JSON storage
+
+## How to Run
+
+1. Open terminal in this folder.
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Start the app:
+
+```bash
+streamlit run app.py
+```
+
+## How It Works
+
+- `question_bank.py` stores interview questions and guidance points
+- `feedback_engine.py` scores answers and generates suggestions
+- `storage.py` saves attempts locally
+- `app.py` provides the interface and progress dashboard
+
+## Future Improvements
+
+- Add voice input and speech analysis
+- Add resume-based personalized questions
+- Connect an LLM API for deeper feedback
+- Add admin panel for trainers or placement cells
+- Export reports to PDF
